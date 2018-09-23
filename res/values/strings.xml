@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="string_getting_json_download">Загрузка</string>
+    <string name="string_getting_json_message">Выполнено</string>
+    <string name="string_getting_json_wrong">Ошибка при загрузке</string>
+    <string name="string_internet_connection_not_available">Нет подключения к интернету</string>
+
+
+</resources>
